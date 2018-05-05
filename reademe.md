@@ -9,7 +9,8 @@ Bamazon - A CLI Application that simulates buying and selling products from an o
     - I got to the point where I was able to build the table, populate and return results to the user via node.js
     -I was also able to verify the connection to the database, and prompt the user for input/record this input for future use
     -Where I ran into issues were my code was all excuting simultaneously and because of this my application was erroring when trying to query the database for an item number for which it had not received an input yet.
+    
     -Given below are screenshots of the 'Working' functionality of this application
-* ![Screenshot1] (images/capture1.png)
-* ![Screenshot2] (images/capture2.png)
-* ![Screenshot3] (images/capture3.png)
+* ![Screenshot1] (/images/capture1.png)
+* ![Screenshot2] (/images/capture2.png)
+* ![Screenshot3] (/images/capture3.png)
