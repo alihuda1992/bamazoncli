@@ -9,6 +9,6 @@ _Problems with the application - I got to the point where I was able to build th
 -Where I ran into issues were my code was all excuting simultaneously and because of this my application was erroring when trying to query the database for an item number for which it had not received an input yet.
 
  -Given below are screenshots of the 'Working' functionality of this application
-_![Screenshot1](images\Capture.PNG)
-_![Screenshot2](/images\capture2.png)
-_![Screenshot3](/images\capture3.png)
+![Screenshot1](images\Capture.PNG)
+![Screenshot2](/images\capture2.png)
+![Screenshot3](/images\capture3.png)
