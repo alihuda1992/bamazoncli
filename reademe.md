@@ -12,6 +12,6 @@ Bamazon - A CLI Application that simulates buying and selling products from an o
     
     -Given below are screenshots of the 'Working' functionality of this application
     
- *![Screenshot1](images\Capture.PNG)
- *![Screenshot2](/images\capture2.png)
- *![Screenshot3](/images\capture3.png)
+ *![Screenshot1](Capture.PNG)
+ *![Screenshot2](Capture2.PNG)
+ *![Screenshot3](Capture3.PNG)
